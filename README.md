@@ -1,4 +1,4 @@
-<p align="center"></p>
+<p align="center"></p> 
 
 <p align="center">
    <a href="https://themeselection.com/item/sneat-free-bootstrap-html-laravel-admin-template/" target="_blank">
