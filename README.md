@@ -7,7 +7,7 @@
 </p>
 
 <h1 align="center">
-   <a href="https://themeselection.com/item/sneat-free-bootstrap-html-laravel-admin-template/" target="_blank" align="center">
+   <a href="https://themeselection.com/item/sneat-free-bootstrap-html-laravel-admin-template/" target="_blank" align="center"> 
       Sneat - Free Bootstrap 5 HTML Laravel Admin Template
    </a>
 </h1>
