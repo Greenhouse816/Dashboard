@@ -27,7 +27,7 @@
   <a href="https://github.com/themeselection/sneat-bootstrap-html-laravel-admin-template-free/issues">
     <img src="https://img.shields.io/github/issues-closed/themeselection/sneat-bootstrap-html-laravel-admin-template-free.svg" alt="GitHub closed issues">
   </a>
-  <a href="https://twitter.com/Theme_Selection" target="_blank">
+  <a href="https://twitter.com/Theme_Selection" target="_blank"> 
     <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Theme_Selection">
   </a>
 </p>
