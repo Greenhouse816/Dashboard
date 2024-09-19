@@ -12,7 +12,7 @@
    </a>
 </h1>
  
-<p align="center">Most Powerful & Comprehensive Free Bootstrap 5 HTML Laravel Admin Dashboard Template built for developers!</p>
+<p align="center">Most Powerful & Comprehensive Free Bootstrap 5 HTML Laravel Admin Dashboard Template built for developers!</p>             
 
 <p align="center">
   <a href="https://github.com/themeselection/sneat-bootstrap-html-laravel-admin-template-free/blob/main/LICENSE">
