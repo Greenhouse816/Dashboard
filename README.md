@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/github/license/themeselection/sneat-html-laravel-admin-template-free" alt="license">
   </a>
   <a href="https://github.com/themeselection/sneat-bootstrap-html-laravel-admin-template-free/releases/">
-    <img src="https://img.shields.io/github/release/themeselection/sneat-bootstrap-html-laravel-admin-template-free.svg" alt="GitHub release">
+    <img src="https://img.shields.io/github/release/themeselection/sneat-bootstrap-html-laravel-admin-template-free.svg" alt="GitHub release">    
   </a>
   <a href="https://github.com/themeselection/sneat-bootstrap-html-laravel-admin-template-free/issues">
     <img src="https://img.shields.io/github/issues/themeselection/sneat-bootstrap-html-laravel-admin-template-free.svg" alt="GitHub issues">
